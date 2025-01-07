@@ -1,6 +1,6 @@
 {
   "name": "react-three-bobblhead",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Bobblehead experiment using React Three Fiber and Rapier Physics with mobile accelerometer support.",
   "keywords": [
     "r3f",

@@ -1,6 +1,6 @@
 # React Three Bobblehead
 
-A bobblehead experiment using React Three Fiber and Rapier Physics with mobile accelerometer support [[demo](https://vercel.com)].
+A bobblehead experiment using React Three Fiber and Rapier Physics with mobile accelerometer support [[demo](https://bobblehead.benjaminmiles.com)].
 
 > 
 
