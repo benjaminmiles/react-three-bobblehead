@@ -1,0 +1,47 @@
+{
+  "name": "react-three-bobblhead",
+  "version": "1.0.2",
+  "description": "Bobblehead experiment using React Three Fiber and Rapier Physics with mobile accelerometer support.",
+  "keywords": [
+    "r3f",
+    "react",
+    "three",
+    "vite",
+    "react three fiber",
+    "bobblehead",
+    "rapier",
+    "physics",
+    "accelerometer"
+  ],
+  "author": "Benjamin Miles <talk@benjaminmiles.com> (https://github.com/benjaminmiles)",
+  "repository": "github:benjaminmiles/react-three-bobblhead",
+  "license": "MIT",
+  "dependencies": {
+    "@react-three/drei": "9.108.3",
+    "@react-three/fiber": "8.16.8",
+    "@react-three/rapier": "^1.4.0",
+    "leva": "^0.9.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.166.1",
+    "use-gesture": "^1.0.0",
+    "vite-plugin-mkcert": "^1.17.5",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.3.3"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "sandbox": "APP_ENV=sandbox vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
